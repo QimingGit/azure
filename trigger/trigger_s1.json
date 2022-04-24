@@ -1,5 +1,5 @@
 {
-	"name": "trigger1",
+	"name": "trigger_s1",
 	"properties": {
 		"annotations": [
 			"SCHEDULETRIGGER"
